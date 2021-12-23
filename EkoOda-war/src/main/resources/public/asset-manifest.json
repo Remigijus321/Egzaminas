@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/EkoOda-war-0.0.1-SNAPSHOT/static/css/main.a91cf22f.chunk.css",
+    "main.js": "/EkoOda-war-0.0.1-SNAPSHOT/static/js/main.762cfe57.chunk.js",
+    "main.js.map": "/EkoOda-war-0.0.1-SNAPSHOT/static/js/main.762cfe57.chunk.js.map",
+    "runtime-main.js": "/EkoOda-war-0.0.1-SNAPSHOT/static/js/runtime-main.9c86c217.js",
+    "runtime-main.js.map": "/EkoOda-war-0.0.1-SNAPSHOT/static/js/runtime-main.9c86c217.js.map",
+    "static/js/2.84426e91.chunk.js": "/EkoOda-war-0.0.1-SNAPSHOT/static/js/2.84426e91.chunk.js",
+    "static/js/2.84426e91.chunk.js.map": "/EkoOda-war-0.0.1-SNAPSHOT/static/js/2.84426e91.chunk.js.map",
+    "index.html": "/EkoOda-war-0.0.1-SNAPSHOT/index.html",
+    "precache-manifest.636532097655eb77ff2ee0c6b7dffe7f.js": "/EkoOda-war-0.0.1-SNAPSHOT/precache-manifest.636532097655eb77ff2ee0c6b7dffe7f.js",
+    "service-worker.js": "/EkoOda-war-0.0.1-SNAPSHOT/service-worker.js",
+    "static/css/main.a91cf22f.chunk.css.map": "/EkoOda-war-0.0.1-SNAPSHOT/static/css/main.a91cf22f.chunk.css.map",
+    "static/js/2.84426e91.chunk.js.LICENSE.txt": "/EkoOda-war-0.0.1-SNAPSHOT/static/js/2.84426e91.chunk.js.LICENSE.txt",
+    "static/media/bars-solid.svg": "/EkoOda-war-0.0.1-SNAPSHOT/static/media/bars-solid.b3f49afd.svg",
+    "static/media/cart.svg": "/EkoOda-war-0.0.1-SNAPSHOT/static/media/cart.8bf1af37.svg",
+    "static/media/times-solid.svg": "/EkoOda-war-0.0.1-SNAPSHOT/static/media/times-solid.2c5552a1.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.9c86c217.js",
+    "static/js/2.84426e91.chunk.js",
+    "static/css/main.a91cf22f.chunk.css",
+    "static/js/main.762cfe57.chunk.js"
+  ]
+}
